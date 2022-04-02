@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAEA_LAB201_JE", "DAEA_LAB201_JE\DAEA_LAB201_JE.csproj", "{DA171C73-1D16-43F9-A5B2-D31867973FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA171C73-1D16-43F9-A5B2-D31867973FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA171C73-1D16-43F9-A5B2-D31867973FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA171C73-1D16-43F9-A5B2-D31867973FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA171C73-1D16-43F9-A5B2-D31867973FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF863DE-E7F3-471E-AD78-C2599BC2E2C5}
+	EndGlobalSection
+EndGlobal
